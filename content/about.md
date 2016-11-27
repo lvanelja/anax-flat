@@ -7,4 +7,6 @@ About this site
 
 The source for this site is available on GitHub in [lvanelja/anax-flat](https://github.com/lvanelja/anax-flat).
 
+The source for the theme is available on Github in [lvanelja/anax-flat-theme(https://github.com/lvanelja/anax-flat-theme)]
+
 This site is produced by Louise V.
